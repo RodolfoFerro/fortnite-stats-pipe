@@ -9,7 +9,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/FerroRodolfo?label=Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/FerroRodolfo/) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/rodolfoferro/) 
 ![Gamertag](https://img.shields.io/static/v1?label=Gamertag&message=fractal_fox&color=purple&style=for-the-badge) <br>
-[![Slides](https://img.shields.io/static/v1?label=Slides&message=Google%20Slides&color=tomato&style=for-the-badge)]()
+[![Slides](https://img.shields.io/static/v1?label=Slides&message=Google%20Slides&color=tomato&style=for-the-badge)](https://docs.google.com/presentation/d/e/2PACX-1vTh011N0uyUpTNpeBOtiZxj0OSJF6rZvSUajfcPjdIcw-sziYKzCCta1y2ngGP6inlaW8VgbfWN-zr2/pub?start=false&loop=false&delayms=3000)
 
 This repo contains illustrates a very simple idea on how to automate the processs of running a ML pipeline using Luigi and modeling data using TensorFlow.
 
