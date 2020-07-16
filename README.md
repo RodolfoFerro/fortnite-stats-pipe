@@ -1,4 +1,15 @@
-# Fortnite data explorations
+<center>
+   <img src="assets/banner.png" width="100%">
+</center>
+
+
+![GitHub last commit](https://img.shields.io/github/last-commit/RodolfoFerro/fortnite-stats-pipe?style=for-the-badge) 
+![GitHub repo size](https://img.shields.io/github/repo-size/RodolfoFerro/fortnite-stats-pipe?style=for-the-badge) 
+![License](https://img.shields.io/github/license/RodolfoFerro/fortnite-stats-pipe?style=for-the-badge) <br>
+[![Twitter](https://img.shields.io/twitter/follow/FerroRodolfo?label=Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/FerroRodolfo/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/rodolfoferro/) 
+![Gamertag](https://img.shields.io/static/v1?label=Gamertag&message=fractal_fox&color=purple&style=for-the-badge) <br>
+[![Slides](https://img.shields.io/static/v1?label=Slides&message=Google%20Slides&color=tomato&style=for-the-badge)]()
 
 This repo contains illustrates a very simple idea on how to automate the processs of running a ML pipeline using Luigi and modeling data using TensorFlow.
 
@@ -63,7 +74,7 @@ But, as we may prefer it would be better if we run the complete pipeline that do
 
 1. Scrape data
 2. Transform data (not used, so far)
-3. Generate some plots that can be found in the[assets](https://github.com/RodolfoFerro/fortnite-stats-pipe/tree/master/assets) folder
+3. Generate some plots that can be found in the [assets](https://github.com/RodolfoFerro/fortnite-stats-pipe/tree/master/assets) folder
 4. Train a very simple model
 
 To run the pipeline:
