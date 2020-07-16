@@ -31,4 +31,4 @@ def test_prediction(url, kills):
 
 
 if __name__ == '__main__':
-    test_prediction('http://localhost:5000/api/predict', 948)
+    test_prediction('http://localhost:5000/api/predict', 700)

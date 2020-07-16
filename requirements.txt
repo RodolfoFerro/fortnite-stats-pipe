@@ -1,5 +1,6 @@
 luigi
 flask
+requests
 scrapy
 numpy
 scipy==1.4.1

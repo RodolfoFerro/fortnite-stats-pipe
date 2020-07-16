@@ -1,8 +1,8 @@
 # Extra
 data*.txt
 *.ipynb
-*.tflite
 logs/*
+.vscode/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

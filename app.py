@@ -7,7 +7,7 @@ from model import model_loader
 
 
 app = Flask(__name__)
-model = model_loader('../model.tflite')
+model = model_loader('model.tflite')
 
 
 # API MAIN STRUCTURE:
