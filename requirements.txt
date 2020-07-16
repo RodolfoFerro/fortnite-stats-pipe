@@ -1,0 +1,11 @@
+luigi
+flask
+scrapy
+numpy
+scipy==1.4.1
+pandas
+matplotlib
+scikit-learn
+tensorflow
+ipython
+jupyterlab
