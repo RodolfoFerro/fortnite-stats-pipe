@@ -114,7 +114,12 @@ class TrainModel(luigi.Task):
 
         epochs = 500
         batch_size = 2
-        model = build_model()
+        lr = 1e-3
+        opt = tf.keras.optimizers.Adam(lr=lr)
+
+        model = tf.keras.models.Sequential()
+        model.add(tf.keras.layers.Dense(1, input_shape=[1]))
+        model.compile(loss='mean_squared_logarithmic_error', optimizer='adam')
 
         n = 5
         for i in range(n):
