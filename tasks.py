@@ -87,7 +87,7 @@ class PlotData(luigi.Task):
         plt.xlabel('Kills')
         plt.ylabel('Score')
         plt.title('Kills vs. Score')
-        plt.savefig('kills_vs_score.png')
+        plt.savefig('assets/kills_vs_score.png')
 
         self.output().makedirs()
         self.output().open('w').close()
@@ -137,7 +137,7 @@ class TrainModel(luigi.Task):
         plt.xlabel('Kills')
         plt.ylabel('Score')
         plt.title('Kills vs. Score')
-        plt.savefig('trained_model.png')
+        plt.savefig('assets/trained_model.png')
         plt.legend()
 
         print("[INFO] Saving trained model...")

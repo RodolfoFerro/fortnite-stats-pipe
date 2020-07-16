@@ -1,7 +1,6 @@
 # Extra
 data*.txt
 *.ipynb
-*.png
 *.tflite
 logs/*
 
