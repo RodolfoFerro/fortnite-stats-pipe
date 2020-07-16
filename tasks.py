@@ -11,7 +11,6 @@ from sklearn.preprocessing import StandardScaler
 from scrapy.crawler import CrawlerProcess
 
 from scraper import FortniteStatsSpider
-from model import build_model
 
 
 plt.style.use('seaborn')
