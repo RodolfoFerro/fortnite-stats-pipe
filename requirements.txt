@@ -3,7 +3,7 @@ flask
 requests
 scrapy
 numpy
-scipy==1.4.1
+scipy==1.10.0
 pandas
 matplotlib
 scikit-learn
